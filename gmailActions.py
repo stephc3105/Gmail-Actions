@@ -6,7 +6,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 
 loginEmail = "sheldonc3.14159@gmail.com"
-loginPassword = "U*$db%CqSRnwUhH4"
+loginPassword = ""
 emailSubject = "Test Subject"
 emailBody = "What's up!"
 searchText = "test"
